@@ -1,3 +1,4 @@
 # Java_DrawingBoard
 Drawing Board
-![](drawingboard.PNG)
+
+![screenshot](drawingboard.PNG)
